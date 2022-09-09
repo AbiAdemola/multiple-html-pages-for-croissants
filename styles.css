@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.background-override {
+    background-color: rgba(127, 251, 255, 0.219);
+}
